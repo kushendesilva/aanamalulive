@@ -93,20 +93,21 @@ h6,
 
 .service-item {
   height: 320px;
-  background: $light;
+  background: $dark;
   transition: 0.5s;
 }
 
 .service-item:hover {
-  background: $dark;
+  background: $light;
 }
 
 .service-item h4 {
   transition: 0.5s;
+  color: $light;
 }
 
 .service-item:hover h4 {
-  color: $light;
+  color: $dark;
 }
 
 .portfolio-item .portfolio-btn {

@@ -10203,20 +10203,21 @@ h6,
 
 .service-item {
   height: 320px;
-  background: #f4f5f8;
+  background: #000000;
   transition: 0.5s;
 }
 
 .service-item:hover {
-  background: #000000;
+  background: #f4f5f8;
 }
 
 .service-item h4 {
   transition: 0.5s;
+  color: #f4f5f8;
 }
 
 .service-item:hover h4 {
-  color: #f4f5f8;
+  color: #000000;
 }
 
 .portfolio-item .portfolio-btn {
