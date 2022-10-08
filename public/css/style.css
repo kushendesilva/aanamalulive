@@ -10299,10 +10299,10 @@ h6,
   display: flex;
   align-items: center;
   justify-content: center;
-  top: 30px;
-  right: 30px;
-  bottom: 30px;
-  left: 30px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
   border-radius: 4px;
   background: #000000;
   transition: 0.5s;
